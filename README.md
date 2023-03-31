@@ -8,6 +8,5 @@
 </a>
 <p>👈 i'm here</p>
 <br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhiew&layout=compact)](https://github.com/xhiew/github-readme-stats)
